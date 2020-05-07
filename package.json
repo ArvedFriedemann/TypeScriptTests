@@ -1,0 +1,23 @@
+{
+  "name": "graphs",
+  "version": "1.0.0",
+  "description": "test for graphstuff in browser",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArvedFriedemann/TypeScriptTests.git"
+  },
+  "author": "Arved Friedemann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArvedFriedemann/TypeScriptTests/issues"
+  },
+  "homepage": "https://github.com/ArvedFriedemann/TypeScriptTests#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript-collections": "^1.3.3"
+  }
+}
